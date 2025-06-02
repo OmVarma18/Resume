@@ -6,27 +6,31 @@ Welcome to my resume repository! This space showcases my background in software 
 
 I’m a Computer Science undergraduate at **VIT Bhopal University**, enthusiastic about building scalable web applications, exploring backend technologies, and constantly sharpening my data structure and algorithmic skills. I aim to create user-centric products that drive value and efficiency.
 
-## 🧠 Technologies & Skills
+## 🧠 Technical Skills
 
-- **Programming Languages**: JavaScript, Java, C++, C, Python, TypeScript  
-- **Frameworks & Tools**: React, Next.js, Express.js, Node.js, Tailwind CSS  
-- **Databases**: MongoDB, MySQL, Appwrite  
+- **Languages**: JavaScript, Java, C++, TypeScript, Node.js, HTML, CSS  
+- **Frameworks**: React, Next.js, Express.js, Tailwind CSS  
+- **Databases**: MySQL, MongoDB, Appwrite  
 - **Concepts**: Data Structures & Algorithms, OOPs, Operating Systems, DBMS, Machine Learning, Computer Networks  
 - **Developer Tools**: Git, GitHub  
 - **Operating Systems**: Windows, Ubuntu  
 
-## 🚀 Resume Highlights
-
-- 💡 Built **CarePulse**, a full-stack healthcare platform allowing users to book and manage doctor appointments with real-time database integration.  
-- 💬 Developed **Fin Smart**, a financial advisor web app using ChatGPT's API to generate personalized finance strategies.  
-- 🎬 Created a **Movie Recommendation System** leveraging REST APIs to suggest similar movies based on user searches.  
-- 🔍 Strong command over data structures and algorithms, and a passion for backend systems and API development.  
-
 ## 📄 Projects
 
-- **CarePulse** – A healthcare platform with appointment scheduling, admin dashboard, and real-time data handling using Appwrite.  
-- **Fin Smart** – Personalized finance advisor built with Next.js and ChatGPT API integration.  
-- **Movie Recommendation System** – Suggests similar titles based on movie input using genre and actor matching via REST APIs.  
+### CarePulse | React, Next.js, Appwrite (Aug 2024)
+- Built a healthcare web app enabling patients to book and manage appointments.  
+- Integrated real-time DB management and API connectivity.  
+- Developed an admin dashboard for handling appointments and patient data.
+
+### Fin Smart | React, Next.js, Tailwind CSS, ChatGPT API (July 2024)
+- Created a personal finance advisor web app using ChatGPT.  
+- Generated personalized suggestions based on user lifestyle input.  
+- Implemented a clean, responsive UI with Tailwind CSS.
+
+### Discord Bot for Website Event Tracking | React, REST API (May 2025)
+- Developed a Discord bot that monitors and reports website events in real-time.  
+- Designed a customizable trigger and notification system for server admins.  
+- Bridged frontend user activity and Discord community updates seamlessly.  
 
 ## 🎓 Education
 
@@ -38,10 +42,10 @@ I’m a Computer Science undergraduate at **VIT Bhopal University**, enthusiasti
 
 - **The Bits and Bytes of Computer Networking** – Google  
 - **Cloud Computing** – NPTEL  
+- **Marketing Analytics** – NPTEL  
 
----
+## 📬 Contact
 
-📬 Feel free to connect for opportunities, collaborations, or a chat:  
-📧 omvarma369@gmail.com  
-📞 +91-9518316900  
-🔗 [LinkedIn](https://www.linkedin.com/in/om-varma-16s) • [GitHub](https://github.com/OmVarma18)
+- 📧 Email: omvarma369@gmail.com  
+- 📞 Phone: +91-9518316900  
+- 🔗 [GitHub](https://github.com/OmVarma18) • [LinkedIn](https://www.linkedin.com/in/om-varma-16s)
