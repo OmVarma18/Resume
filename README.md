@@ -1,51 +1,82 @@
-# Om Shivendra Varma's Resume
+# Om Varma's Resume
 
-Welcome to my resume repository! This space showcases my background in software development, full-stack engineering, and my passion for solving real-world problems with modern web technologies.
+Welcome to my resume repository! This space highlights my background in full-stack development, AI projects, and problem-solving with scalable software solutions.
+
+---
+## 📬 Contact
+
+- 📧 Email: [omvarma369@gmail.com](mailto:omvarma369@gmail.com)  
+- 📞 Phone: [+91-9518316900](tel:+919518316900)  
+- 🔗 [GitHub](https://github.com/OmVarma18) • [LinkedIn](https://www.linkedin.com/in/om-varma-16s) • [Portfolio](https://omvarma18.github.io/3D-Portfolio/)  
+
+---
 
 ## 👨‍💻 About Me
+I’m a Computer Science undergraduate at **VIT Bhopal University**, passionate about building intelligent, user-focused applications. I enjoy solving complex problems with clean, efficient code and exploring the intersection of AI and full-stack engineering.
 
-I’m a Computer Science undergraduate at **VIT Bhopal University**, enthusiastic about building scalable web applications, exploring backend technologies, and constantly sharpening my data structure and algorithmic skills. I aim to create user-centric products that drive value and efficiency.
+---
 
 ## 🧠 Technical Skills
 
-- **Languages**: JavaScript, Java, C++, TypeScript, Node.js, HTML, CSS  
-- **Frameworks**: React, Next.js, Express.js, Tailwind CSS  
-- **Databases**: MySQL, MongoDB, Appwrite  
-- **Concepts**: Data Structures & Algorithms, OOPs, Operating Systems, DBMS, Machine Learning, Computer Networks  
-- **Developer Tools**: Git, GitHub  
-- **Operating Systems**: Windows, Ubuntu  
+- **Languages**: JavaScript, TypeScript, Java, C++  
+- **Frameworks / Libraries**: React.js, Next.js, Express.js, FastAPI, REST API  
+- **Databases**: MySQL, PostgreSQL (Neon, Supabase), MongoDB (MongoDB Atlas)  
+- **Developer Tools**: Git, GitHub, Docker, Postman, Render, Redux Toolkit, Vercel  
+- **Concepts**: Data Structures & Algorithms (300+ problems solved on LeetCode)  
+
+---
 
 ## 📄 Projects
 
-### CarePulse | React, Next.js, Appwrite (Aug 2024)
-- Built a healthcare web app enabling patients to book and manage appointments.  
-- Integrated real-time DB management and API connectivity.  
-- Developed an admin dashboard for handling appointments and patient data.
+### DocsChat: AI-Powered Document Assistant | *Next.js, Node.js, Quadrant DB, Drizzle, Gemini, LangChain, Ollama*  
+*Aug 2025 – Sep 2025*  
+- Engineered a conversational platform for contextual PDF queries, delivering **90%+ accurate responses**.  
+- Architected a scalable interface supporting **100+ concurrent users** with low-latency responses.  
+- Automated AI integration and database workflows, cutting query time by **40%**.  
 
-### Fin Smart | React, Next.js, Tailwind CSS, ChatGPT API (July 2024)
-- Created a personal finance advisor web app using ChatGPT.  
-- Generated personalized suggestions based on user lifestyle input.  
-- Implemented a clean, responsive UI with Tailwind CSS.
+---
 
-### Discord Bot for Website Event Tracking | React, REST API (May 2025)
-- Developed a Discord bot that monitors and reports website events in real-time.  
-- Designed a customizable trigger and notification system for server admins.  
-- Bridged frontend user activity and Discord community updates seamlessly.  
+### FinSmart: Personal Finance Advisor | *Next.js, Tailwind CSS, ChatGPT API*  
+*Jun 2024 – Jul 2024*  
+- Created a personalized finance app powered by ChatGPT to generate financial suggestions from **20+ parameters**.  
+- Delivered a responsive design with Tailwind CSS, achieving a **100% Lighthouse score** for mobile performance.  
+- Enabled AI-driven insights, helping users identify up to **15% potential savings**.  
+
+---
+
+### EchoBot: Discord Bot for Website Event Tracking | *React.js, REST API, Discord API*  
+*Apr 2024 – May 2024*  
+- Developed a Discord bot to monitor website activity in real time, reporting **50+ unique events per run**.  
+- Built configurable admin triggers and notifications, reducing manual monitoring by **70%+**.  
+- Integrated frontend activity with Discord, boosting community engagement and response time by **30%**.  
+
+---
+
+### StockSense: Stock Market Prediction | *Pandas, NumPy, JavaScript*  
+*Jan 2024 – Mar 2024*  
+- Implemented a research-paper model to predict stock prices using **6 key financial indicators** (P/E ratio, P/B ratio, Alpha, Beta, Sensex, Nifty 50).  
+- Processed and analyzed a dataset of **5,000+ records**, generating **12+ predictive features** and improving accuracy by **18%** over baseline models.  
+- Built a JavaScript interface to visualize **10+ parameters**, enabling quick insights for end users.  
+
+---
 
 ## 🎓 Education
 
-- **VIT Bhopal University** – B.Tech in Computer Science and Engineering (2022–2026 expected)  
-- **Global Public High School and Jr College, Nashik** – HSC (Class XII, 2020–2022)  
-- **Fravashi Academy School** – ICSE (Class X, 2007–2020)  
+- **VIT Bhopal University** – B.Tech in Computer Science and Technology (2022 – Present)  
+  - CGPA: **8.23 / 10**  
+
+---
+
+## 📜 Co-Curriculars
+
+- **Freelance: Full Stack Developer** (*Jan 2025 – Jun 2025*)  
+  *React.js, Tailwind CSS, Node.js, PostgreSQL*  
+  - Designed and developed a responsive home website for clients using React and Tailwind CSS, boosting brand visibility.  
+  - Engineered a custom invoice billing system with Node.js and PostgreSQL, reducing manual work by **60%**.  
+  - Delivered full-stack solutions on time with maintainable code and optimized performance.  
+
+---
 
 ## 📜 Certifications
 
 - **The Bits and Bytes of Computer Networking** – Google  
-- **Cloud Computing** – NPTEL  
-- **Marketing Analytics** – NPTEL  
-
-## 📬 Contact
-
-- 📧 Email: omvarma369@gmail.com  
-- 📞 Phone: +91-9518316900  
-- 🔗 [GitHub](https://github.com/OmVarma18) • [LinkedIn](https://www.linkedin.com/in/om-varma-16s)
