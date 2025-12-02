@@ -1,82 +1,79 @@
-# Om Varma's Resume
+# 🧑‍💻 Om Varma — Full-Stack & AI Developer
 
-Welcome to my resume repository! This space highlights my background in full-stack development, AI projects, and problem-solving with scalable software solutions.
+> Frontend & full-stack developer building AI-powered web apps and automation workflows using the  Next.js ecosystem.
 
----
-## 📬 Contact
-
-- 📧 Email: [omvarma369@gmail.com](mailto:omvarma369@gmail.com)  
-- 📞 Phone: [+91-9518316900](tel:+919518316900)  
-- 🔗 [GitHub](https://github.com/OmVarma18) • [LinkedIn](https://www.linkedin.com/in/om-varma-16s) • [Portfolio](https://omvarma18.github.io/3D-Portfolio/)  
+**Contact:** omvarma369@gmail.com · +91 9518316900  
+**GitHub:** https://github.com/OmVarma18 · **LinkedIn:** https://www.linkedin.com/in/om-varma-16s · **Portfolio:** https://omvarma18.github.io/3D-Portfolio/
 
 ---
 
-## 👨‍💻 About Me
-I’m a Computer Science undergraduate at **VIT Bhopal University**, passionate about building intelligent, user-focused applications. I enjoy solving complex problems with clean, efficient code and exploring the intersection of AI and full-stack engineering.
+
+## 📬 Get in Touch
+- **Email:** omvarma369@gmail.com  
+- **GitHub:** https://github.com/OmVarma18  
+- **LinkedIn:** https://www.linkedin.com/in/om-varma-16s  
+- **Portfolio:** https://omvarma18.github.io/3D-Portfolio/
 
 ---
 
-## 🧠 Technical Skills
-
-- **Languages**: JavaScript, TypeScript, Java, C++  
-- **Frameworks / Libraries**: React.js, Next.js, Express.js, FastAPI, REST API  
-- **Databases**: MySQL, PostgreSQL (Neon, Supabase), MongoDB (MongoDB Atlas)  
-- **Developer Tools**: Git, GitHub, Docker, Postman, Render, Redux Toolkit, Vercel  
-- **Concepts**: Data Structures & Algorithms (300+ problems solved on LeetCode)  
+## 🚀 About Me
+I’m a B.Tech Computer Science student at VIT Bhopal with hands-on experience developing production-ready web applications, integrating LLMs, and automating workflows. I enjoy taking projects from idea → prototype → deployment, focusing on clean UI, performant code, and meaningful user outcomes.
 
 ---
 
-## 📄 Projects
+## 🔧 Technical Skills
 
-### DocsChat: AI-Powered Document Assistant | *Next.js, Node.js, Quadrant DB, Drizzle, Gemini, LangChain, Ollama*  
-*Aug 2025 – Sep 2025*  
-- Engineered a conversational platform for contextual PDF queries, delivering **90%+ accurate responses**.  
-- Architected a scalable interface supporting **100+ concurrent users** with low-latency responses.  
-- Automated AI integration and database workflows, cutting query time by **40%**.  
-
----
-
-### FinSmart: Personal Finance Advisor | *Next.js, Tailwind CSS, ChatGPT API*  
-*Jun 2024 – Jul 2024*  
-- Created a personalized finance app powered by ChatGPT to generate financial suggestions from **20+ parameters**.  
-- Delivered a responsive design with Tailwind CSS, achieving a **100% Lighthouse score** for mobile performance.  
-- Enabled AI-driven insights, helping users identify up to **15% potential savings**.  
+- **Languages:** JavaScript, TypeScript, Python, Java, C++  
+- **Frontend:** React.js, Next.js, Tailwind CSS, Redux Toolkit  
+- **Backend:** Node.js, Express.js, FastAPI  
+- **AI & LLMs:** Gemini API, ChatGPT API, LangChain, Ollama, Vector Databases  
+- **Automation & Design Tools:** Lovable AI (UI prototyping), n8n workflows  
+- **Databases:** PostgreSQL (Neon, Supabase), MongoDB, MySQL  
+- **Data & Analysis:** Pandas, NumPy, EDA, feature engineering  
+- **Tools:** Git, GitHub, Docker, Postman, Vercel, Render  
+- **Other:** REST APIs, SDLC / Agile, DSA (300+ LeetCode)
 
 ---
 
-### EchoBot: Discord Bot for Website Event Tracking | *React.js, REST API, Discord API*  
-*Apr 2024 – May 2024*  
-- Developed a Discord bot to monitor website activity in real time, reporting **50+ unique events per run**.  
-- Built configurable admin triggers and notifications, reducing manual monitoring by **70%+**.  
-- Integrated frontend activity with Discord, boosting community engagement and response time by **30%**.  
+## 💼 Internship
+**Frontend Developer Intern — Shivendra Industries** *(Oct 2024 – Dec 2024)*  
+- Used Lovable AI to generate landing-page wireframes and converted prototypes into responsive React + Tailwind interfaces.  
+- Implemented n8n automation workflows for internal processes, reducing manual tasks.  
+- Built an invoice automation system with Node.js & PostgreSQL, cutting manual billing effort by ~60%.
 
 ---
 
-### StockSense: Stock Market Prediction | *Pandas, NumPy, JavaScript*  
-*Jan 2024 – Mar 2024*  
-- Implemented a research-paper model to predict stock prices using **6 key financial indicators** (P/E ratio, P/B ratio, Alpha, Beta, Sensex, Nifty 50).  
-- Processed and analyzed a dataset of **5,000+ records**, generating **12+ predictive features** and improving accuracy by **18%** over baseline models.  
-- Built a JavaScript interface to visualize **10+ parameters**, enabling quick insights for end users.  
+## 📄 Featured Projects
+
+### DocsChat — AI Document Assistant  
+**Tech:** Next.js, Node.js, LangChain, Gemini, Quadrant DB  
+- Conversational PDF assistant using LLMs + vector search, delivering accurate, contextual answers.  
+- Prototyped UI with Lovable AI and shipped a scalable Next.js frontend with secure backend integration.
+
+### FinSmart — AI Personal Finance Advisor  
+**Tech:** Next.js, Tailwind CSS, Gemini API  
+- Generates personalized financial suggestions from 20+ user parameters using LLM integration.  
+- Converted AI-generated design drafts into a high-performance, mobile-optimized frontend.
+
+### StockSense — Stock Market Prediction Dashboard  
+**Tech:** Python, Pandas, NumPy, React, YFinance API  
+- Implemented a model using financial indicators over 5,000+ records; engineered 12+ features and created interactive visualizations.
+
+### EchoBot — Website Event Tracking Bot  
+**Tech:** React, REST API, Discord API  
+- Tracks website events and posts automated alerts to Discord; added configurable triggers to reduce manual monitoring.
 
 ---
 
 ## 🎓 Education
-
-- **VIT Bhopal University** – B.Tech in Computer Science and Technology (2022 – Present)  
-  - CGPA: **8.23 / 10**  
-
----
-
-## 📜 Co-Curriculars
-
-- **Freelance: Full Stack Developer** (*Jan 2025 – Jun 2025*)  
-  *React.js, Tailwind CSS, Node.js, PostgreSQL*  
-  - Designed and developed a responsive home website for clients using React and Tailwind CSS, boosting brand visibility.  
-  - Engineered a custom invoice billing system with Node.js and PostgreSQL, reducing manual work by **60%**.  
-  - Delivered full-stack solutions on time with maintainable code and optimized performance.  
+**B.Tech — Computer Science and Technology**  
+VIT Bhopal University (2022 — Present) · CGPA: 8.23 / 10
 
 ---
 
-## 📜 Certifications
+## 🏅 Certifications
+- The Bits and Bytes of Computer Networking — Google  
+- Cloud Computing — NPTEL  
+- Marketing Analytics — NPTEL
 
-- **The Bits and Bytes of Computer Networking** – Google  
+---
